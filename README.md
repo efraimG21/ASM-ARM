@@ -1,7 +1,6 @@
 # ASM-ARM
 
 
-```markdown
 # Program Documentation: hello.s
 
 ## Purpose:
@@ -55,5 +54,3 @@ To run the compiled program, execute:
 - The program utilizes system calls provided by the macOS operating system.
 - The `syscalls.master` file in the XNU source code provides documentation for system calls used in macOS.
 ```
-
-This documentation file provides a clear explanation of the program's purpose, structure, and how to compile and run it. It also includes explanations for each subroutine and string definition within the program.
