@@ -53,4 +53,3 @@ To run the compiled program, execute:
 ## External Resources:
 - The program utilizes system calls provided by the macOS operating system.
 - The `syscalls.master` file in the XNU source code provides documentation for system calls used in macOS.
-```
